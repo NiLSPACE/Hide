@@ -8,6 +8,7 @@ g_PluginInfo =
 	Name = "Hide",
 	Version = "2",
 	Date = "2015-11-30",
+	SourceLocation = "https://github.com/NiLSPACE/Hide",
 	Description = [[This plugin allows admins to hide themselves from their server. The server will stop broadcasting packets, so even hacked clients won't see you.]],
 	Commands =
 	{
@@ -42,6 +43,7 @@ g_PluginInfo =
 		{
 			Description = "Toggles someone else's visible status",
 			RecommendedGroups = "admins",
+			CommandsAffected = { "/hide", },
 		},
 	},
 }

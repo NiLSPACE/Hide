@@ -13,4 +13,4 @@ This plugin allows admins to hide themselves from their server. The server will 
 | Permissions | Description | Commands | Recommended groups |
 | ----------- | ----------- | -------- | ------------------ |
 | hide.hide | Toggles your visible status | `/hide` | admins, mods |
-| hide.hideother | Toggles someone else's visible status |  | admins |
+| hide.hideother | Toggles someone else's visible status | `/hide` | admins |
